@@ -1,31 +1,31 @@
 {
   "mockUpdates":{
-   "General Awareness":1606219700030,
-    "General English":1605975211468
+   "General Awareness":1642515768576,
+    "General English":1642515768576
   },
   "pyqUpdates":{
-   "General Awareness":1606295819534,
-    "General English":1606295610614
+   "General Awareness":1642515768576,
+    "General English":1642515768576
   },
   "explainUpdates":{
-   "General Awareness":1606219700030,
-    "General English":1605975211468
+   "General Awareness":1642515768576,
+    "General English":1642515768576
   },
   "mCommonsUpdates":{
-  "General Awareness":1605975211468,
-    "General English":1605975211468
+  "General Awareness":1642515768576,
+    "General English":1642515768576
   },
   "pCommonsUpdates":{
-  "General Awareness":1606295610614,
-    "General English":1606295610614
+  "General Awareness":1642515768576,
+    "General English":1642515768576
   },
   "mQuizUpdates":{
-  "General Awareness":1610918341206,
-    "General English":1605975211468
+  "General Awareness":1642515768576,
+    "General English":1642515768576
   },
   "pQuizUpdates":{
-   "General Awareness":1606295610614,
-    "General English":1606295610614
+   "General Awareness":1642515768576,
+    "General English":1642515768576
   },
   "updateMessage":{
   "message":"Whatever given here shows up in the update"
